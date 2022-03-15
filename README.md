@@ -1,27 +1,38 @@
 # E-commerce-back-end
 
 ## Links
-- VIDEO LINK: https://drive.google.com/file/d/134aulyt0hBBCNdonXw6CZIWN01yHbawq/view
 - REPO: https://github.com/alvaroormeno/E-commerce-back-end
 
 ## Description
-Back end SQL database for an ecommerce website
+An API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. 
 
 ## Usage
 - Download repo
 - Install Modules - npm i
-- Start MySql
-- Seed SQL
 - Start App
 
 ## Videos
 
 ### USERS - CREATE, GET ALL, GET ONE, DELETE, UPDATE 
 - VIDEO LINK: https://drive.google.com/file/d/1bQDQtpWgX97trRpNWPn_EtIk3skU1UFM/view
-
-
-
 ![USERS](./assets/users.png)
+
+
+### THOUGHTS - CREATE, GET ALL, GET ONE, DELETE, UPDATE 
+- VIDEO LINK: https://drive.google.com/file/d/17XyG3u_bRTFZ5B7ku9FHbuWTCnwAOJHJ/view
+![USERS](./assets/thoughts.png)
+
+
+### REACTIONS - CREATE and DELETE
+- VIDEO LINK: https://drive.google.com/file/d/1tyZ7LcW2Tc1fy3q3-wCw3tLMHrl4_h6y/view
+![USERS](./assets/reactions.png)
+
+
+### FRIENDS - ADD and DELETE
+- VIDEO LINK: https://drive.google.com/file/d/1dlIeg1-tkeZ-NQJb4vbnmwATSaFI4jB7/view
+![USERS](./friends/reactions.png)
+
+
 
 ## User Story
 ```
